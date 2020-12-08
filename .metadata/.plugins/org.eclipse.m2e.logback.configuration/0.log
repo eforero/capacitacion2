@@ -641,3 +641,25 @@
 2020-11-23 19:22:43,743 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\main\resources
 2020-11-23 19:22:43,746 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-11-23 19:22:43,747 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\test\resources
+2020-12-08 14:46:20,093 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-08 14:46:45,039 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.com.capacitacion2:capacitacion2:0.0.1-SNAPSHOT @ D:\EntornoTrabajo\workspace\capacitacion2\pom.xml.
+2020-12-08 14:46:50,099 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:46:50,154 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\main\resources
+2020-12-08 14:46:50,160 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:46:50,161 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\test\resources
+2020-12-08 14:47:51,970 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:47:51,970 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\main\resources
+2020-12-08 14:47:51,973 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:47:51,973 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\test\resources
+2020-12-08 14:57:12,667 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:57:12,668 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\main\resources
+2020-12-08 14:57:12,672 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:57:12,673 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\test\resources
+2020-12-08 14:57:31,661 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:57:31,661 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\main\resources
+2020-12-08 14:57:31,664 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:57:31,664 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\test\resources
+2020-12-08 14:59:09,928 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:59:09,929 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\main\resources
+2020-12-08 14:59:09,932 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-08 14:59:09,933 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EntornoTrabajo\workspace\capacitacion2\src\test\resources
